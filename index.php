@@ -7,4 +7,8 @@ if(isset($_REQUEST['hub_challenge'])){
 if($_token == "myCustomToken123"){
 	echo $challenge;
 }
+
  ?>
+<html>
+	<title>ABC</title>
+</html>
